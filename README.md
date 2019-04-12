@@ -10,10 +10,10 @@ Create a movie database fullstack application with the following:
 - - mainActress
 - - supportingActor
 - - supportingActress
-<br>},
+<br>
 
 ## Pages:
-<strong>Home Page</strong>: Only a H1 welcome to the page
+<strong>Home Page</strong>: Only a H1 welcome to the page. Have Home, List, and Add Movie links on the page.
 
 <strong>List all movies</strong>: List all movies here from the database
 
