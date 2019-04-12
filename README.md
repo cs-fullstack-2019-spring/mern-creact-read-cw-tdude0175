@@ -3,13 +3,13 @@
 Create a movie database fullstack application with the following:
 
 ## Model:
-- movieName: String,
-- genre: String,
-- cast: {
-- - mainActor: String,
-- - mainActress: String,
-- - supportingActor: String,
-- - supportingActress: String,
+- movieName
+- genre
+- Group all of this together:
+- - mainActor
+- - mainActress
+- - supportingActor
+- - supportingActress
 <br>},
 
 ## Pages:
