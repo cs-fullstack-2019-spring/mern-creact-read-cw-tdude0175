@@ -25,7 +25,7 @@ Create a movie database fullstack application with the following:
 - Include an edit button next to each movie that will allow you to add the cast of a movie.
 
 ### Challenge 2:
-- Only show the cast information that is not blank on the listing page.
+- Only show the actors/actresses that are in the movie.
 
 ### Challenge 3:
 - Style the movie information using a grid in a grid (similar to Bootstrap Cards)
